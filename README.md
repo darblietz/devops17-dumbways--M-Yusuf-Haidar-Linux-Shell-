@@ -12,7 +12,7 @@ Contoh :<br/>![ps](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haida
  
  - Visual antara BASH dan Shell Contoh : <br/>
  BASH : <br/>![Bash](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/4496ec33-040a-465b-bb35-9fd3e498b906) <br/> penulisan rommel@random berwarna hijau. <br/> Shell : <br/> ![Shell](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/fd04fa10-0768-42d7-8e49-2044caafdabc) <br/> Shell hanya menampilkan ($) dollar.
- - System yang ada di shell belum tentu ada di BASH, sebaliknya System yang ada di BASH, sudah pasti ada di Shell. karena version BASH yang baru. berbeda dengan halnya Shell, version lama.
+ - System yang ada di Shell belum tentu ada di BASH, sebaliknya System yang ada di BASH, sudah pasti ada di Shell. karena BASH Versi yang baru. berbeda dengan halnya Shell, version lama.
 
 #### 3. Instalasi Apache2 dan dapat diakses melalui IP Address server.
 
